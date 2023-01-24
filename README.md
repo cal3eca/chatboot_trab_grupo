@@ -1,7 +1,8 @@
 # chatboot_trab_grupo
-#Estrutura do projeto de Encerramento Do módulo 1 (Fale comigo)
+# Estrutura do projeto de Encerramento Do módulo 1 (Fale comigo)
 
-Esse repositório contém os arquivos que foram utilizados para a realização do projeto em grupo, para o encerramento do módulo 1. No curso de Analise de dados do Senac - Botafogo.
+Esse repositório contém os arquivos que foram utilizados para a realização do projeto em grupo, para o encerramento do módulo 1
+do curso de Analise de dados do Senac - Botafogo.
 
 Criado por: Diego de Arruda Nieto, Douglas Klem Portugal
 do Amaral, Matheus Barbosa Furtado e Yasmin Belo da Silva
